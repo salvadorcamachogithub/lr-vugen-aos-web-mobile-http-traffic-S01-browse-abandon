@@ -1,0 +1,66 @@
+[General]
+Type=Multi
+DefaultCfg=default.cfg
+ParameterFile=AOS-Web-Mobile HTTP Traffic-S01 Browse Abandon.prm
+GlobalParameterFile=
+NewFunctionHeader=1
+RunType=cci
+ActionLogicExt=action_logic
+LastActiveAction=Action
+MajorVersion=2023
+MinorVersion=0
+ActiveTypes=QTWeb
+GenerateTypes=QTWeb
+AdditionalTypes=QTWeb
+DevelopTool=Vugen
+LastModifyVer=2023.0.0.0
+DFERebrandFlag=Done
+ParamLeftBrace={
+ParamRightBrace=}
+ScriptLanguage=C
+LastCodeGenerationVer=2020.3.0.0
+DisableRegenerate=0
+Encoding=ANSI
+Description=
+ScriptLocale=en-US
+OriginalTCScriptPath=C:\Users\demo\Documents\VuGen\Scripts\AOS-S01 Abandon
+[Actions]
+vuser_init=vuser_init.c
+Action=Action.c
+vuser_end=vuser_end.c
+[RunLogicFiles]
+Default Profile=default.usp
+[VuserProfiles]
+Profiles=Default Profile
+[CfgFiles]
+Default Profile=default.cfg
+[ExtraFiles]
+globals.h=
+[Modified Actions]
+vuser_init=1
+Action=1
+vuser_end=1
+[Recorded Actions]
+vuser_init=1
+Action=1
+vuser_end=1
+[Replayed Actions]
+vuser_init=1
+Action=1
+vuser_end=1
+[Interpreters]
+vuser_init=cci
+Action=cci
+vuser_end=cci
+[TransactionsOrder]
+Order="AOS-Web-Mobile HTTP Traffic-S01-01 Laptops__*delimiter*__AOS-Web-Mobile HTTP Traffic-S01-02 Product__*delimiter*__AOS-Web-Mobile HTTP Traffic-S01-03 Add To Cart__*delimiter*__AOS-Web-Mobile HTTP Traffic-S01-04 Home"
+[StateManagement]
+LastReplayStatus=1
+[ActiveReplay]
+LastReplayedRunName=
+ActiveRunName=
+[Transactions]
+"AOS-Web-Mobile HTTP Traffic-S01-01 Laptops"=
+"AOS-Web-Mobile HTTP Traffic-S01-02 Product"=
+"AOS-Web-Mobile HTTP Traffic-S01-03 Add To Cart"=
+"AOS-Web-Mobile HTTP Traffic-S01-04 Home"=

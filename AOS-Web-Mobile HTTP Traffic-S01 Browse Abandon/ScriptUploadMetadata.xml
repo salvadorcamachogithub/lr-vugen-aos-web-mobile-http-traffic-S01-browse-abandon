@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>AOS-Web-Mobile HTTP Traffic-S01 Browse Abandon</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="AOS-Web-Mobile HTTP Traffic-S01 Browse Abandon.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="AOS-Web-Mobile HTTP Traffic-S01 Browse Abandon.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="AOS_URL.dat" Filter="2" />
+    <FileEntry Name="image_id.dat" Filter="2" />
+    <FileEntry Name="combined_AOS-Web-Mobile HTTP Traffic-S01 Browse Abandon.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="262894188440.idx" Filter="1" />
+    <FileEntry Name="93201923440.idx" Filter="1" />
+    <FileEntry Name="AOS-Mobile-Web-S01 Browse Abandon.prm.bak" Filter="1" />
+    <FileEntry Name="AOS-S01 Abandon HTTP-HTML.prm.bak" Filter="1" />
+    <FileEntry Name="AOS-Web-Mobile HTTP Traffic-S01 Browse Abandon.c.pickle" Filter="1" />
+    <FileEntry Name="AOS-Web-Mobile HTTP Traffic-S01 Browse Abandon.ci" Filter="1" />
+    <FileEntry Name="AOS-Web-Mobile HTTP Traffic-S01 Browse Abandon.prm.bak" Filter="1" />
+    <FileEntry Name="AOS-Web-Mobile-S01 Browse Abandon.prm.bak" Filter="1" />
+    <FileEntry Name="AOSMobile-S01 Abandon HTTP-HTML.prm.bak" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="data.zip" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv0K4.221.log" Filter="1" />
+    <FileEntry Name="mdrv0Ux.51.log" Filter="1" />
+    <FileEntry Name="mdrv1mE.257.log" Filter="1" />
+    <FileEntry Name="mdrv2cc.643.log" Filter="1" />
+    <FileEntry Name="mdrv2WX.347.log" Filter="1" />
+    <FileEntry Name="mdrv2yN.917.log" Filter="1" />
+    <FileEntry Name="mdrv58e.229.log" Filter="1" />
+    <FileEntry Name="mdrv5aJ.137.log" Filter="1" />
+    <FileEntry Name="mdrvAOs.577.log" Filter="1" />
+    <FileEntry Name="mdrvbcW.531.log" Filter="1" />
+    <FileEntry Name="mdrvCuI.513.log" Filter="1" />
+    <FileEntry Name="mdrvDQo.407.log" Filter="1" />
+    <FileEntry Name="mdrvEfG.735.log" Filter="1" />
+    <FileEntry Name="mdrveOy.749.log" Filter="1" />
+    <FileEntry Name="mdrvg4C.261.log" Filter="1" />
+    <FileEntry Name="mdrvgvI.503.log" Filter="1" />
+    <FileEntry Name="mdrvgxZ.923.log" Filter="1" />
+    <FileEntry Name="mdrvhZs.779.log" Filter="1" />
+    <FileEntry Name="mdrvjPQ.585.log" Filter="1" />
+    <FileEntry Name="mdrvKBK.119.log" Filter="1" />
+    <FileEntry Name="mdrvkiX.473.log" Filter="1" />
+    <FileEntry Name="mdrvLg9.975.log" Filter="1" />
+    <FileEntry Name="mdrvLMn.547.log" Filter="1" />
+    <FileEntry Name="mdrvntj.71.log" Filter="1" />
+    <FileEntry Name="mdrvOpJ.97.log" Filter="1" />
+    <FileEntry Name="mdrvoYQ.919.log" Filter="1" />
+    <FileEntry Name="mdrvpev.201.log" Filter="1" />
+    <FileEntry Name="mdrvPRP.329.log" Filter="1" />
+    <FileEntry Name="mdrvPxR.281.log" Filter="1" />
+    <FileEntry Name="mdrvQ1a.795.log" Filter="1" />
+    <FileEntry Name="mdrvQ3G.555.log" Filter="1" />
+    <FileEntry Name="mdrvqim.903.log" Filter="1" />
+    <FileEntry Name="mdrvqR9.903.log" Filter="1" />
+    <FileEntry Name="mdrvqXg.95.log" Filter="1" />
+    <FileEntry Name="mdrvrLX.991.log" Filter="1" />
+    <FileEntry Name="mdrvSBA.781.log" Filter="1" />
+    <FileEntry Name="mdrvUID.863.log" Filter="1" />
+    <FileEntry Name="mdrvuNQ.69.log" Filter="1" />
+    <FileEntry Name="mdrvuQX.405.log" Filter="1" />
+    <FileEntry Name="mdrvVub.427.log" Filter="1" />
+    <FileEntry Name="mdrvWrZ.517.log" Filter="1" />
+    <FileEntry Name="mdrvYPV.735.log" Filter="1" />
+    <FileEntry Name="mdrvYYd.455.log" Filter="1" />
+    <FileEntry Name="mdrvZ9P.115.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="NewParam.dat" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="shunra.shunra" Filter="1" />
+    <FileEntry Name="ssr_config.ini" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

@@ -12,7 +12,7 @@ This script was created with best practices, so it is more resilient, such as:
 * Think times at the end of each transaction to better simulate user behavior
 * Main URL parametrized, Public AOS by default
 
-This script randomly selects a product from the category and then goes to it in transaction number 3 and adds it to the cart to then abandon the cart
+This script randomly selects a product from the category and then goes to it in transaction number 3 and adds it to the cart to then abandon the cart  
 The Add To Cart step is "simulated" (it hits a random AOS product image) as there is no http traffic in AOS when adding to the cart
 
 Runtime Settings were set to log only on errors and generate snapshot on errors, think times 75% to 150%

@@ -1,8 +1,8 @@
 Updated: 04.2025  
 Script created by Salvador Camacho
 
-This script has the same steps as AOS-Web-S01 Browse Abandon, but this one simulates the http Mobile traffic, which would get recorded
-from an actual mobile device with VuGen proxy recorder
+This script has the same steps as AOS-Web-S01 Browse Abandon, but this one simulates the http Mobile traffic, which would get recorded from an actual mobile device with VuGen proxy recorder  
+The use case for this one is to be used together with the Native Mobile scripts, this one being 98% of the load and the rest (Native Mobile) being a sample of the real mobile device metrics
 
 This script was created with best practices, so it is more resilient, such as:
 * Transaction naming
